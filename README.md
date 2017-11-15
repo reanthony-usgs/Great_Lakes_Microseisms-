@@ -1,1 +1,1 @@
-# Great_Lakes_Microseisms-
+# Great_Lakes_Microseisms- code for microseism paper.
